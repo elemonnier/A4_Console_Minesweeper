@@ -10,7 +10,7 @@ How to play:
 
 [q] to leave the game and stop program.
 
-You can change the number of rows, columns and number of mines of the grid in the Main.java file.
+You can change the number of rows, columns and number of mines of the grid in the Main.java file (line 25).
 
 
 
